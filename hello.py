@@ -1,3 +1,5 @@
+name = input("Enter name:")
+
 hello_string = """
 Hello there, friend, it's great you're here,
 A warm welcome wrapped in cheer!
